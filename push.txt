@@ -1,1 +1,1 @@
-day1:abcdefghijklmnopqrstuvwxy
+day1:abcdefghijklmnopqrstuvwxyz
