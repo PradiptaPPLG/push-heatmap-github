@@ -1,1 +1,1 @@
-day1:abcde
+day1:abcdef
