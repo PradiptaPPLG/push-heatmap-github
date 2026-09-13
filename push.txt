@@ -1,2 +1,2 @@
 day1:abcdefghijklmnopqrstuvwxyz123456789101112131415
-day2:abcdefghijklmnopqrstuvwxyz12345678
+day2:abcdefghijklmnopqrstuvwxyz123456789
